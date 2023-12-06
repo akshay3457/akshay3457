@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshay3457
+- 👋 Hi, I’m Akshay
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me ...email: akshay@digitaldeyar.in
